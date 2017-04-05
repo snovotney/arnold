@@ -1,0 +1,8 @@
+1,أحداث صراع,conflict
+2,أزمة,crisis
+3,انتهاكات حقوق الإنسان,human rights 
+4,جريمة,crime
+5,حادث,accident
+6,رأي سياسي,political opinion
+7,عنف,violence
+8,ليس أي مما سبق,none of the above
